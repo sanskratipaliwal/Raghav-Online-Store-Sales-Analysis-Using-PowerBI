@@ -1,0 +1,1 @@
+Cleaned and transformed sales data using Power Query and applied DAX functions to calculate quarterly performance. Built dynamic Power BI dashboards to track key metrics and sales trends, providing actionable insights for marketing strategies.
